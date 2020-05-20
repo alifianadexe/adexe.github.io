@@ -1,0 +1,53 @@
+hr{
+    color: rgb(196, 196, 196);
+}
+
+
+.social-media{
+    padding: 10px;
+    box-shadow: 0 6px 15px 0 rgba(0, 0, 0, 0.19);    
+}
+
+.description{
+    color:#9b9b9b;
+}
+
+.role-job{
+    font-size: large;
+}
+
+.bottom-border{
+    width: 45px;
+    border-bottom: 3px #272727 solid;
+}
+
+#experience{
+    margin-top:30px;
+}
+
+.job-desc{
+    margin-top: 30px;
+}
+
+.job-desc p{
+    margin: 4px 4px;
+}
+
+.job-desc .title-text{
+    font-size: large;
+    font-weight: 600;
+}
+
+.job-desc .role{
+    font-style: italic;
+}
+
+.job-desc desc{
+    font-size: inherit;
+    font-weight: 100;
+}
+
+.job-desc small{
+    margin: 3px 3px;
+}
+
