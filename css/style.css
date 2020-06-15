@@ -2,6 +2,8 @@ hr{
     color: rgb(196, 196, 196);
 }
 
+.photo-profile{
+}
 
 .social-media{
     padding: 10px;
@@ -54,4 +56,9 @@ hr{
 .progress{
     padding-left: 1em;
     padding-right: 1em;
+}
+
+.skill-sect{
+    margin-left: 3.5em;
+    margin-right: 3.5em;
 }
